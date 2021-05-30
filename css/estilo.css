@@ -1,0 +1,92 @@
+body{
+	font-family: sans-serif;
+	margin: 0;
+	background-color: #ccc
+}
+
+#texto h1{
+	width: 100%;
+	text-align: center;
+	margin-top: 200px;
+	text-transform: uppercase;
+	color: white;
+	text-shadow: 3px 3px 3px #333;
+}
+
+#texto p{
+	width: 30%;
+	color: white;
+	text-transform: uppercase;
+	border-bottom: 3px solid white;
+	background-color: gray;
+	text-align: center;
+	margin: auto;
+	padding: 10px;
+}
+
+
+
+nav ul{
+	float: right;
+	margin-right: 40px;
+	margin-top: -280px;
+}
+
+nav li{
+	display: inline-block;
+	margin-right: 1px;
+}
+
+nav li a{
+	background-color: grey;
+	padding: 10px;
+	text-transform: uppercase;
+	color: white; 
+	text-decoration: none;
+}
+
+nav li a:hover{
+	background-color: #ccc;
+}
+
+
+nav
+
+main{
+	width: 80%;
+	margin-top: 100px;
+	height: 250px;
+	margin: auto;
+}
+
+.card{
+	float: right;
+	width: 32%;
+	margin-top: 30px;
+}
+
+.card p{
+	background-color: #393535;
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+	margin-right: 5px;
+	margin-top: -5px;
+	width: 74.2%;
+}
+
+article{
+	width: 80%;
+	margin: auto;
+	background-color: whitesmoke;
+}
+
+
+footer{
+	color: white;
+	background-color: black;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+}
+
